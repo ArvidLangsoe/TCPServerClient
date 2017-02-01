@@ -1,6 +1,10 @@
 import java.net.*;
 import java.io.*;
-
+/**
+ * 
+ * @author Arvid K. Langsø<br><br>Jeppe T. Nielsen<br><br> Mikkel H. Lund<br><br> Patrick G. knudsen
+ *
+ */
 public class Server {
 	private ServerSocket serverSocket;
 

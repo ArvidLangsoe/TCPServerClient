@@ -1,9 +1,13 @@
 import java.io.*;
 import java.net.*;
 import java.util.Scanner;
-
+/**
+ * 
+ * @author Arvid Langsø<br>Jeppe T. Nielsen<br> Mikkel Holmbo Lund<br> Patrick Green knudsen
+ *
+ */
 public class Client {
-	
+
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		
